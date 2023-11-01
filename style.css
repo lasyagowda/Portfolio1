@@ -97,4 +97,47 @@ font-family:cursive;
     text-decoration:underline;
     
 }
+.project{
+    color:darkblue;
+    margin-top: 100px;
+font-family:cursive;
+    margin-left: 20%;
+     text-shadow: 2px -12px 3px #696969;
+}
+.project1 h2{
+    margin-top: 90px;
+    margin-left: 35%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.project1 p{
+    margin-top: 20px;
+    margin-left: 30%;
+    }
+.project1 img{
+    margin-left:50%;
+    margin-top: 20px;
+}
+.project2 h2{
+
+     margin-top: 35px;
+     
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.container1{
+    display: flex;
+    gap: 100px;
+ justify-content: center;
+    
+}
+ .project2 img{
+    
+    
+}
+.project2{
+    border: solid 5px;
+    
+    
+}
  
