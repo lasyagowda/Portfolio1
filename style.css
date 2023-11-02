@@ -68,7 +68,7 @@ span{
      color:darkblue;
     margin-top: 100px;
 font-family:cursive;
-    margin-left: 20%;
+    text-align: center;
      text-shadow: 2px -12px 3px #696969;
     
     
@@ -101,29 +101,30 @@ font-family:cursive;
     color:darkblue;
     margin-top: 100px;
 font-family:cursive;
-    margin-left: 20%;
+text-align: center;
      text-shadow: 2px -12px 3px #696969;
 }
 .project1 h2{
-    margin-top: 90px;
-    margin-left: 35%;
+    margin-top: 50px;
+    margin-left: 20%;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    
+    color: darkblue;
 }
 .project1 p{
-    margin-top: 20px;
-    margin-left: 30%;
+    margin-top: 15px;
+    margin-left: 10px;
     }
 .project1 img{
-    margin-left:50%;
+    
     margin-top: 20px;
+    margin-left: 150px
 }
 .project2 h2{
 
-     margin-top: 35px;
-     
-     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    
+     margin-top: 50px;
+     margin-left: 80px;
+     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkblue;
 }
 .container1{
     display: flex;
@@ -131,13 +132,29 @@ font-family:cursive;
  justify-content: center;
     
 }
- .project2 img{
+ 
+.project2{
+    border: solid 5px;
+    margin-top: 50px;
+    margin-left: 20px;
+    border-radius: 50px;
     
     
 }
-.project2{
+.project1{
     border: solid 5px;
+    margin-top: 50px;
+    margin-left: 20px;
+    border-radius: 50px;
+}
     
+.project2 img{
+margin-left: 120px;
+}
+.project2 p{
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-bottom: 40px;
     
 }
  
