@@ -186,5 +186,25 @@ margin-left: 120px;
     border-radius: 50px;
 
 }
+.contact h1{
+    color:darkblue;
+    margin-top: 100px;
+font-family:cursive;
+text-align: center;
+     text-shadow: 2px -12px 3px #696969;
+}
 
- 
+.contact input{
+    margin-left:300px;
+    width: 30%;
+    height:50px;
+    margin-top: 50px;
+    font-size: x-large;
+}
+ .contact2 input{
+    margin-left:300px;
+    width: 30%;
+    height:100px;
+    margin-top: 50px;
+    font-size: x-large;
+ }
