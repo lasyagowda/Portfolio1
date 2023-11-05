@@ -208,3 +208,22 @@ text-align: center;
     margin-top: 50px;
     font-size: x-large;
  }
+ .contact2 button{
+    margin-left: 300px;
+    margin-top: 50px;
+    width: 15%;
+    color: white;
+    background-color: blue;
+    height: 50px;
+ }
+ .contact3 {
+    margin-top: 50px;
+    color:darkblue;
+    margin-top: 100px;
+font-family:cursive;
+text-align: center;
+     text-shadow: 2px -12px 3px #696969;
+ }
+ .contact3 h4{
+    color:black;
+ }
