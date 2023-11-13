@@ -88,7 +88,7 @@ font-family:cursive;
 .container h2{
     text-decoration: line-through;
     padding-top: 50px;
-    margin-left: 40%;
+    margin-left: 300px;
 
 }
 .container h3{
@@ -97,31 +97,8 @@ font-family:cursive;
     text-decoration:underline;
     
 }
-.tool h1{
-    color:darkblue;
-    margin-top: 100px;
-font-family:cursive;
-    text-align: center;
-     text-shadow: 2px -12px 3px #696969;
-    
-}
-.tools{
-    display: flex;
-    text-align: center;
-}
-.tools1{
-    margin-left: 130px;
-    margin-top: 50px;
-    
-}
-.tools2{
-    margin-left: 300px;
-    margin-top: 50px;
-}
-.tools3{
-  margin-left :300px;
-  margin-top: 100px;
-}
+
+
 .project{
     color:darkblue;
     margin-top: 100px;
@@ -255,12 +232,12 @@ text-align: center;
  .contact3 h4{
     color:black;
  }
- .infor h3{
-    text-align: center;
-    margin-left:5px;
-      
+ 
 
 
-
-
- }
+       
+       @media screen and (max-width: 599px) {
+        body {
+            background-color: lightcoral;
+        }
+    }
