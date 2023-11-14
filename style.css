@@ -186,11 +186,20 @@ margin-left: 120px;
     margin-left: 450px;
     margin-right: 450px;
     border-radius: 50px;
+}
+.tool{
+    color:darkblue;
+    margin-top: 150px;
+font-family:cursive;
+text-align: center;
+     text-shadow: 2px -12px 3px #696969;
 
 }
+
+
 .contact h1{
     color:darkblue;
-    margin-top: 100px;
+    margin-top: 200px;
 font-family:cursive;
 text-align: center;
      text-shadow: 2px -12px 3px #696969;
@@ -241,3 +250,29 @@ text-align: center;
             background-color: lightcoral;
         }
     }
+    .skills {
+        max-width: 68.75rem;
+        margin: auto;
+        text-align: center;
+        margin-top: 2.5rem;
+      }
+      
+      .skill-header {
+        margin-bottom: 1rem;
+      }
+      
+      .skills-wrapper img {
+        padding: 1.25rem;
+      }
+      
+      .icon {
+        width: 11.875rem;
+        height: 11.25rem;
+      }
+      .icon-card {
+        background-color: #fff;
+        border-radius: 20px;
+        box-shadow: 0 5px 15px var(--secondary-shadow);
+        padding: 20px;
+        margin: 10px;
+      }
